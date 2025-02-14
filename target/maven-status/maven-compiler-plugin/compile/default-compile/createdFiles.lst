@@ -1,0 +1,4 @@
+edu\eci\arep\dockerprime\RestServiceAplication.class
+edu\eci\arep\dockerprime\App.class
+edu\eci\arep\dockerprime\HelloRestController.class
+edu\eci\arep\dockerprime\RestServiceAplication$RestServiceApplication.class
